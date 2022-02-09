@@ -1,6 +1,6 @@
-##Могилевич Елена Андреевна
+**Могилевич Елена Андреевна**
 
-![Photo](ihttps://github.com/nervuse/rezume/blob/master/img/igra_v_kalmara.jpg?raw=true)
+![Photo](img/igra_v_kalmara.jpg)
 
 **Дата рождения:**          	      20.07.1987г
 **Семейное положение:** 	      	  Замужем
